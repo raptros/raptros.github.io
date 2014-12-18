@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>raptros</title>
-    <link href="http://www.raptros.com/atom.xml" rel="self" />
-    <link href="http://www.raptros.com" />
-    <id>http://www.raptros.com/atom.xml</id>
+    <link href="http://raptros.com/atom.xml" rel="self" />
+    <link href="http://raptros.com" />
+    <id>http://raptros.com/atom.xml</id>
     <author>
         <name>aidan l. coyne</name>
         <email>coynea90@gmail.com</email>
@@ -11,8 +11,8 @@
     <updated>2014-12-15T00:00:00Z</updated>
     <entry>
     <title>respond 1.0.0</title>
-    <link href="http://www.raptros.com/posts/respond-1.0.0.html" />
-    <id>http://www.raptros.com/posts/respond-1.0.0.html</id>
+    <link href="http://raptros.com/posts/respond-1.0.0.html" />
+    <id>http://raptros.com/posts/respond-1.0.0.html</id>
     <published>2014-12-15T00:00:00Z</published>
     <updated>2014-12-15T00:00:00Z</updated>
     <summary type="html"><![CDATA[<p>i’ve released verson 1.0.0 of the <a href="https://github.com/raptros/respond">respond</a> library.</p>
@@ -23,8 +23,8 @@
 </entry>
 <entry>
     <title>information leak</title>
-    <link href="http://www.raptros.com/posts/information-leak.html" />
-    <id>http://www.raptros.com/posts/information-leak.html</id>
+    <link href="http://raptros.com/posts/information-leak.html" />
+    <id>http://raptros.com/posts/information-leak.html</id>
     <published>2014-12-14T23:00:00Z</published>
     <updated>2014-12-14T23:00:00Z</updated>
     <summary type="html"><![CDATA[<p>consider the following scenario:</p>
@@ -38,8 +38,8 @@
 </entry>
 <entry>
     <title>albums in december 2014</title>
-    <link href="http://www.raptros.com/posts/albums-december-2014.html" />
-    <id>http://www.raptros.com/posts/albums-december-2014.html</id>
+    <link href="http://raptros.com/posts/albums-december-2014.html" />
+    <id>http://raptros.com/posts/albums-december-2014.html</id>
     <published>2014-12-14T00:00:00Z</published>
     <updated>2014-12-14T00:00:00Z</updated>
     <summary type="html"><![CDATA[<p>here are albums i remember finding this month.</p>
@@ -107,8 +107,8 @@
 </entry>
 <entry>
     <title>kickoff</title>
-    <link href="http://www.raptros.com/posts/kickoff.html" />
-    <id>http://www.raptros.com/posts/kickoff.html</id>
+    <link href="http://raptros.com/posts/kickoff.html" />
+    <id>http://raptros.com/posts/kickoff.html</id>
     <published>2014-12-13T00:00:00Z</published>
     <updated>2014-12-13T00:00:00Z</updated>
     <summary type="html"><![CDATA[<p>starting a new blog to be a bit more … professional.</p>]]></summary>
